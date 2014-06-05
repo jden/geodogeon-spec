@@ -1,16 +1,15 @@
 =================================
-The GeoJSON Specification Project
+The GeoDogeON Specification Project
 =================================
 
-* Web: http://geojson.org/
-* Discussion: http://lists.geojson.org/listinfo.cgi/geojson-geojson.org
-* Wiki (Scoping, proposals, etc): https://github.com/GeoJSONWG/geojson-spec/wiki
+* Web: http://jden.us/geodogeon-spec
 
 History
 ========
 
-* 2011, September-October: Proposals to amend the specification were solicited, two
-  were received, none were accepted. The specification version remains at 1.0.
+* 2014: [DogeON](http://dogeon.org/) 1.0 is published
+
+* 2013: The internet discovers that dogs exist in addition to cats
 
 * 2008-06-16: The GeoJSON 1.0 Specification is published.
 
