@@ -2,7 +2,7 @@
 The GeoDogeON Specification Project
 =================================
 
-* Web: http://jden.us/geodogeon-spec
+* Web: https://github.com/jden/geodogeon-spec/blob/master/geodogeon-spec-draft.rst
 
 History
 ========
